@@ -6,4 +6,4 @@
 #     file.write("\n 2. New goal.")
 
 with open("C:\\Users\\Pan Rafał\\Desktop\\Bodom.txt", mode="r") as file:
-    file.read("Bodom.text")    
+    file.read()    
